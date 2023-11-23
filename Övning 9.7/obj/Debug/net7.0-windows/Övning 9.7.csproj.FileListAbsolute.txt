@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\MinaProjekt\Övning 9.7\bin\Debug\net7.0-windows\Övning 9.7.exe
+C:\Users\Administrator\source\repos\MinaProjekt\Övning 9.7\bin\Debug\net7.0-windows\Övning 9.7.deps.json
+C:\Users\Administrator\source\repos\MinaProjekt\Övning 9.7\bin\Debug\net7.0-windows\Övning 9.7.runtimeconfig.json
+C:\Users\Administrator\source\repos\MinaProjekt\Övning 9.7\bin\Debug\net7.0-windows\Övning 9.7.dll
+C:\Users\Administrator\source\repos\MinaProjekt\Övning 9.7\bin\Debug\net7.0-windows\Övning 9.7.pdb
+C:\Users\Administrator\source\repos\MinaProjekt\Övning 9.7\obj\Debug\net7.0-windows\Övning_9._7.Form1.resources
+C:\Users\Administrator\source\repos\MinaProjekt\Övning 9.7\obj\Debug\net7.0-windows\Övning 9.7.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\MinaProjekt\Övning 9.7\obj\Debug\net7.0-windows\Övning 9.7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\MinaProjekt\Övning 9.7\obj\Debug\net7.0-windows\Övning 9.7.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\MinaProjekt\Övning 9.7\obj\Debug\net7.0-windows\Övning 9.7.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\MinaProjekt\Övning 9.7\obj\Debug\net7.0-windows\Övning 9.7.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\MinaProjekt\Övning 9.7\obj\Debug\net7.0-windows\Övning 9.7.dll
+C:\Users\Administrator\source\repos\MinaProjekt\Övning 9.7\obj\Debug\net7.0-windows\refint\Övning 9.7.dll
+C:\Users\Administrator\source\repos\MinaProjekt\Övning 9.7\obj\Debug\net7.0-windows\Övning 9.7.pdb
+C:\Users\Administrator\source\repos\MinaProjekt\Övning 9.7\obj\Debug\net7.0-windows\Övning 9.7.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\MinaProjekt\Övning 9.7\obj\Debug\net7.0-windows\ref\Övning 9.7.dll
